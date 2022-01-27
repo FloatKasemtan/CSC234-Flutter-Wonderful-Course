@@ -12,6 +12,10 @@ flutter pub get
 ```
 Make sure that your work are different from mine, if not ... we'll all die
 
+## Useful Tip I guess...
+
+Try change variables and project structure
+
 ## Authors
 
 - [@FloatyKT](https://github.com/FloatKasemtan)
