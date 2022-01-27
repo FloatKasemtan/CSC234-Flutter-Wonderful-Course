@@ -1,11 +1,6 @@
 # CSC234-Flutter-Wonderful-Course
 Course from KMUTT
 
-## Authors
-
-- [@FloatyKT](https://github.com/FloatKasemtan)
-
-
 ## Usage
 Before send an assignment please don't forget to run
 ```
@@ -16,3 +11,7 @@ Then
 flutter pub get
 ```
 Make sure that your work are different from mine, if not ... we'll all die
+
+## Authors
+
+- [@FloatyKT](https://github.com/FloatKasemtan)
