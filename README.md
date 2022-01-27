@@ -14,7 +14,7 @@ Make sure that your work are different from mine, if not ... we'll all die
 
 ## Useful Tip I guess...
 
-Try change variables and project structure
+Try change variables name and project structure
 
 ## Authors
 
