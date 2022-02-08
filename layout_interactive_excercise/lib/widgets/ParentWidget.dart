@@ -38,8 +38,7 @@ class _ParentWidgetState extends State<ParentWidget> {
               padding: const EdgeInsets.all(10.0),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(8.0),
-                child: Image.network(
-                    'https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/272189473_4868661459916486_3850036912764138839_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeElZlkqRCrMjXY7KJb7Yb1Jzyyi7l8sybHPLKLuXyzJsfdZcIWA3QUMEJ8EbN5XslrmXaXJOtau9zTdbZ5VDr56&_nc_ohc=TFi9ol_FwtUAX-VJesJ&_nc_ht=scontent.fbkk12-4.fna&oh=00_AT8S2xv55Ito13vT-n5yvk9GpTHgPJkBgBs5JPTYS_U4mQ&oe=62014718'),
+                child: Image.asset('assets/image1.jpg'),
               ),
             ),
             Padding(
